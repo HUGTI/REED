@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhost_b2c_web_v3=self.webpackChunkhost_b2c_web_v3||[]).push([[35017703],{35017703:(e,r,o)=>{o.r(r),o.d(r,{configureSharedB2CContainer:()=>c});var s=o(68058884),t=o(54868638),n=o(99697946);function c(e){var r=(0,n.configureSharedContainer)(e);return r.register(s.ProjectRepositoryToken,{useClass:t.ProjectApiRepository}),r}}}]);

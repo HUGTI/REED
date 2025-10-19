@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhost_b2c_web_v3=self.webpackChunkhost_b2c_web_v3||[]).push([[23203172],{65132891:s=>{s.exports=JSON.parse('{"images":{"icons-sprite.svg":"static/icons-sprite.63f518a2e03b.svg"}}')}}]);

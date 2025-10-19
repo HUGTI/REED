@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhost_b2c_web_v3=self.webpackChunkhost_b2c_web_v3||[]).push([[37967677],{37967677:(_,T,b)=>{b.r(T),b.d(T,{HOST_SETTINGS_INJECTION_KEY:()=>e});b(29204099),b(53375191),b(1906035);var e=Symbol("HOST_SETTINGS_INJECTION_KEY")}}]);

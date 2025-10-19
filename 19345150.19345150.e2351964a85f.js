@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhost_b2c_web_v3=self.webpackChunkhost_b2c_web_v3||[]).push([[19345150],{19345150:(e,t,l)=>{l.r(t),l.d(t,{default:()=>b});const b={install:function(e,t){Object.defineProperty(e.config.globalProperties,"$alert",{writable:!1,configurable:!1,enumerable:!1,value:t})}}}}]);

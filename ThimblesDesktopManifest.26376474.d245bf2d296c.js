@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgame_thimbles=self.webpackChunkgame_thimbles||[]).push([[26376474],{76143695:(e,s,t)=>{e.exports=t.p+"desktop.manifest.65c4b08b0376.json"}}]);

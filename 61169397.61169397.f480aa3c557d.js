@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhost_b2c_web_v3=self.webpackChunkhost_b2c_web_v3||[]).push([[61169397],{61169397:(e,n,r)=>{r.r(n),r.d(n,{configureSharedB2CWebContainer:()=>t});var c=r(18537678);function t(e){return(0,c.configureSharedB2CContainer)(e)}}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhost_b2c_web_v3=self.webpackChunkhost_b2c_web_v3||[]).push([[28846249],{28846249:(e,t,s)=>{s.r(t),s.d(t,{default:()=>n});const n=function(e){return"number"==typeof e?e:!e||Number.isNaN(e)?-(new Date).getTimezoneOffset()/60:+e}}}]);
